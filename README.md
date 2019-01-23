@@ -1,0 +1,2 @@
+# reactRedux
+simple implementation exercise
